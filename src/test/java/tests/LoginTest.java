@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import Pages.LoginPage;
 
-public class LoginUsingPOM {
+public class LoginTest {
 	
 	
 	

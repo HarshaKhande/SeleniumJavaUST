@@ -4,13 +4,11 @@
 
   <test name="Selenium tests">
   
-  <parameter name ="username" value="Admin"/>
-   <parameter name ="password" value="admin123"/>
-  
+
 
   
     <classes>
-       <class name="tests.LoginUsingPOM"/>
+       <class name="tests.LoginTest"/>
       
    
     </classes>

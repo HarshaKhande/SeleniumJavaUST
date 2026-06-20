@@ -26,6 +26,7 @@ SeleniumWebDriver\ParameterstestNG.class
 SeleniumWebDriver\Frames.class
 SeleniumWebDriver\Locators.class
 SeleniumWebDriver\Login.class
+tests\LoginTest.class
 SeleniumWebDriver\RadioButtons.class
 SeleniumWebDriver\PriotyTestcases.class
 SeleniumWebDriver\Checkboxes.class

@@ -32,6 +32,8 @@ public class LoginPage {
 		
 		driver.findElement(loginButton).click();
 		
+
+		
 		
 	}	
 	
@@ -39,6 +41,8 @@ public class LoginPage {
 	public void verifyforgotpasswordlink() {
 		
 		System.out.println("Forgot password link is present on the login page");
+		
+
 		
 		
 	}
